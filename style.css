@@ -1,0 +1,26 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image: url(https://cdn.glitch.com/73626ac0-479e-4f6c-93ee-e5b8bcd9448e%2F3156482.jpg?v=1598890892963);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-style: italic;
+  color: #00008B;
+  margin-left: auto;
+  text-align:center;
+}
+
+#sketch-holder{
+  margin-left: auto;
+  text-align: center;
+}
+
+.strapline {
+  margin-left: auto;
+  text-align: center;
+}
